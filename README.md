@@ -17,8 +17,8 @@
 
 <br>
 
-- A passionate Front-end developer
-- Currently learning Virtualisation and WebGL
+- A passionate Full-Stack developer & DevOPS
+- Currently learning React
 
 <br><br>
 
