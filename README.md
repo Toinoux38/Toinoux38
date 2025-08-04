@@ -1,1 +1,1 @@
-[![BentoHub grid image](https://cloud.appwrite.io/v1/storage/buckets/667d390e003b1971a8be/files/6876735200020c17b107/preview?project=667d35ca0017fb21fc6c)](https://bentohub.netlify.app/)
+<img width="3840" height="2160" alt="image" src="https://github.com/user-attachments/assets/6b27a50b-f3cb-47b1-8c37-02e489bd7e1e" />
